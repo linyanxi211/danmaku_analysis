@@ -1,0 +1,15 @@
+{
+  "label_map": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 0
+  },
+  "id2label": {
+    "2": "positive",
+    "1": "neutral",
+    "0": "negative"
+  },
+  "num_labels": 3,
+  "max_length": 64,
+  "trained_at": "2026-04-09T22:24:24.662786"
+}
