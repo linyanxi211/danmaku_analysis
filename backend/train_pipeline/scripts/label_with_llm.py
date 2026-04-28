@@ -11,7 +11,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from openai import OpenAI
 
 # ================= 配置区 =================
-API_KEY = "sk-dfb39a5d59fe478bbeae1e99a5124252"
+API_KEY = "deepseek-KEY"
 BASE_URL = "https://api.deepseek.com/v1"  
 MODEL_NAME = "deepseek-chat"              
 
