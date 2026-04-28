@@ -1,0 +1,12 @@
+{
+  "dataset_path": "./data\\bert_llm_v1_20260409_210058.pkl",
+  "dataset_size": 4817,
+  "training_time_seconds": 3280.1241068840027,
+  "metrics": {
+    "accuracy": 88.49,
+    "precision": 87.93,
+    "recall": 88.49,
+    "f1": 87.9
+  },
+  "trained_at": "2026-04-09T22:25:14.191414"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bert_llm_v1",
+  "total": 4817,
+  "train_size": 3853,
+  "val_size": 964,
+  "distribution": {
+    "positive": 880,
+    "neutral": 3615,
+    "negative": 322
+  },
+  "created_at": "20260409_210058"
+}
